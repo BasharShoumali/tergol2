@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * and a constant value.
  * 
  * This class provides methods to access and modify these shared variables in a
- * thread-safe manner.amjd
+ * thread-safe manner.amjds
  * 
  * @author Bashar Shoumali
  */
